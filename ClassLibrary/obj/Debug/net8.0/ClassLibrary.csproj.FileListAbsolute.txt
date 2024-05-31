@@ -1,0 +1,14 @@
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.ResolveComReference.cache
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\KHAI\.NET\Lr03_Lampart\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
